@@ -7,7 +7,10 @@ Sample code we wrote for Capstone which was a translation of the python implemen
 
 to compile and run the code simply type: 
 
+compile:
 g++ sample2.cpp -o sample2
+
+run using:
 ./sample2
 
 # Working
